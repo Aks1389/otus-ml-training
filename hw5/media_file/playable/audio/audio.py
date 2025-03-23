@@ -1,4 +1,4 @@
-from playable import Playable
+from hw5.media_file.playable import Playable
 
 class Audio(Playable):
     def __init__(self, name, format, size, created, owner, codec, bitrate, length, sampling_rate):
