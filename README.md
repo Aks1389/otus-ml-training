@@ -1,1 +1,1 @@
-# otus-ml-training
+# OTUS - Machine Learning. Basic (2024-2025)
